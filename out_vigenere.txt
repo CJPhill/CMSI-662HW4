@@ -1,0 +1,116 @@
+
+=== Plaintext-Extended Auto-Key Vigenère ===
+
+Pos | P | K | C
+----|---|---|---
+  0 | T | Q | J
+  1 | A | U | U
+  2 | K | A | K
+  3 | E | R | V
+  4 | A | K | K
+  5 | C | T | V
+  6 | O | A | O
+  7 | P | K | Z
+  8 | Y | E | C
+  9 | O | A | O
+ 10 | F | C | H
+ 11 | Y | O | M
+ 12 | O | P | D
+ 13 | U | Y | S
+ 14 | R | O | F
+ 15 | P | F | U
+ 16 | O | Y | M
+ 17 | L | O | Z
+ 18 | I | U | C
+ 19 | C | R | T
+ 20 | Y | P | N
+ 21 | T | O | H
+ 22 | O | L | Z
+ 23 | N | I | V
+ 24 | O | C | Q
+ 25 | R | Y | P
+ 26 | M | T | F
+ 27 | A | O | O
+ 28 | W | N | J
+ 29 | I | O | W
+ 30 | L | R | C
+ 31 | C | M | O
+ 32 | O | A | O
+ 33 | X | W | T
+ 34 | O | I | W
+ 35 | N | L | Y
+ 36 | T | C | V
+ 37 | H | O | V
+ 38 | E | X | B
+ 39 | T | O | H
+ 40 | H | N | U
+ 41 | I | T | B
+ 42 | R | H | Y
+ 43 | D | E | H
+ 44 | F | T | Y
+ 45 | L | H | S
+ 46 | O | I | W
+ 47 | O | R | F
+ 48 | R | D | U
+
+Key:        QUARKTAKEACOPYOFYOURPOLICYTONORMAWILCOXONTHETHIRD
+Plaintext:  TAKEACOPYOFYOURPOLICYTONORMAWILCOXONTHETHIRDFLOOR
+Ciphertext: JUKVKVOZCOHMDSFUMZCTNHZVQPFOJWCOOTWYVVBHUBYHYSWFU
+
+=== Ciphertext-Extended Auto-Key Vigenère ===
+
+Pos | P | K | C
+----|---|---|---
+  0 | T | Q | J
+  1 | A | U | U
+  2 | K | A | K
+  3 | E | R | V
+  4 | A | K | K
+  5 | C | J | L
+  6 | O | U | I
+  7 | P | K | Z
+  8 | Y | V | T
+  9 | O | K | Y
+ 10 | F | L | Q
+ 11 | Y | I | G
+ 12 | O | Z | N
+ 13 | U | T | N
+ 14 | R | Y | P
+ 15 | P | Q | F
+ 16 | O | G | U
+ 17 | L | N | Y
+ 18 | I | N | V
+ 19 | C | P | R
+ 20 | Y | F | D
+ 21 | T | U | N
+ 22 | O | Y | M
+ 23 | N | V | I
+ 24 | O | R | F
+ 25 | R | D | U
+ 26 | M | N | Z
+ 27 | A | M | M
+ 28 | W | I | E
+ 29 | I | F | N
+ 30 | L | U | F
+ 31 | C | Z | B
+ 32 | O | M | A
+ 33 | X | E | B
+ 34 | O | N | B
+ 35 | N | F | S
+ 36 | T | B | U
+ 37 | H | A | H
+ 38 | E | B | F
+ 39 | T | B | U
+ 40 | H | S | Z
+ 41 | I | U | C
+ 42 | R | H | Y
+ 43 | D | F | I
+ 44 | F | U | Z
+ 45 | L | Z | K
+ 46 | O | C | Q
+ 47 | O | Y | M
+ 48 | R | I | Z
+
+Key:        QUARKJUKVKLIZTYQGNNPFUYVRDNMIFUZMENFBABBSUHFUZCYI
+Plaintext:  TAKEACOPYOFYOURPOLICYTONORMAWILCOXONTHETHIRDFLOOR
+Ciphertext: JUKVKLIZTYQGNNPFUYVRDNMIFUZMENFBABBSUHFUZCYIZKQMZ
